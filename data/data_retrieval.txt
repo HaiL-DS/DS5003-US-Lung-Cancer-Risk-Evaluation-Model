@@ -1,0 +1,11 @@
+The data are downloaded from multiple sources then merged with the Census tract FIPS codes as the key :
+
+CDC PLACES Health Data Portal
+
+https://data.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-Census-Tract-D/cwsq-ngmh/about_data
+
+EPA EQI Environmental Dataset Gateway
+
+https://edg.epa.gov/EPADataCommons/public/ORD/CPHEA/EQI_2006_2010/
+
+The resulting data has 70,962 rows and 73 columns
